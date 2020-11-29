@@ -1,3 +1,9 @@
+# This fork is continued on GitLab as project cgrauer/metadata
+https://gitlab.com/cgrauer/metadata.git
+
+Your welcome to join us there!
+
+
 Image metadata library (PHP 5.5+)
 =========
 [![Build Status](https://travis-ci.org/dchesterton/image.svg?branch=master)](https://travis-ci.org/dchesterton/image) [![Dependency Status](https://www.versioneye.com/user/projects/5494283bdd709d811f0004df/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5494283bdd709d811f0004df)
